@@ -86,6 +86,11 @@ footer {
     padding: 35% 0 35% 0;
 }
 
+.bl {
+    margin: 4px 5% 4px 0;
+    border-bottom: 4px solid green;
+}
+
 .vl {
     margin: 4px 5% 4px 0;
     border-left: 4px solid green;
