@@ -68,7 +68,9 @@ footer {
     text-align: left;
 }
 
-.section-card-heading {}
+.section-card-heading {
+    padding: 10px 0 10px 0;
+}
 
 .section-card-description {}
 
@@ -78,6 +80,15 @@ footer {
 
 .section-2-image {
     margin-left: -250px;
+}
+
+.section-2-col-2 {
+    padding: 35% 0 35% 0;
+}
+
+.vl {
+    margin: 4px 5% 4px 0;
+    border-left: 4px solid green;
 }
 
 .section-3 {
@@ -93,6 +104,10 @@ footer {
 
 .card {
     box-shadow: 0 4px 28px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.11);
+}
+
+.card-green {
+    box-shadow: 0 4px 28px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(2, 255, 192, 0.31);
 }
 
 section-3-card-heading {}
