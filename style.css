@@ -64,6 +64,20 @@ footer {
     padding: 0px 15% 0px 15%;
 }
 
+.carousel-item img {
+    max-height: 660px !important;
+    min-height: 660px !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    color: black;
+}
+
+.carousel-item-text {}
+
 .section-1-card {
     text-align: left;
 }
@@ -71,8 +85,6 @@ footer {
 .section-card-heading {
     padding: 10px 0 10px 0;
 }
-
-.section-card-description {}
 
 .section-2-card {
     text-align: left;
@@ -114,5 +126,3 @@ footer {
 .card-green {
     box-shadow: 0 4px 28px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(2, 255, 192, 0.31);
 }
-
-section-3-card-heading {}
